@@ -1,0 +1,12 @@
+# Basic
+max_width = 100
+# Imports
+imports_granularity = "Crate"
+# Consistency
+newline_style = "Unix"
+# Format comments
+comment_width = 100
+wrap_comments = true
+# Misc
+chain_width = 80
+use_field_init_shorthand = true
